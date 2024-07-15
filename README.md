@@ -3,7 +3,12 @@
 **yejushin2000/yejushin2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejushin2000&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejushin2000)](https://github.com/anuraghazra/github-readme-stats)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+출처: https://hulrud.tistory.com/3
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
